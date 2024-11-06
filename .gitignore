@@ -1,0 +1,16 @@
+# idea tool
+/.git
+/.idea
+/.idea_modules
+/target
+/applog
+/**/.git
+/**/.idea
+/**/.idea_modules
+/**/target
+
+# Java
+*.iws
+*.class
+*.log
+*.iml
